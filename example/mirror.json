@@ -1,0 +1,8 @@
+{
+    "mirror": [
+        {
+            "from": "docker.io/library/ubuntu:18.04",
+            "to": "docker.jfrog.io/ubuntu:18.04"
+        }
+    ]
+}
